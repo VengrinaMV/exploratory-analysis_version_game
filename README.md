@@ -7,7 +7,7 @@
 1.	Изучим таблицы предложенные для анализа ( запрос 1 -4).
  В результате запросов предложенные таблицы можно представить в виде следующей схемы
  
-![ ](https://github.com/VengrinaMV/exploratory-analysis_version_game/main/bd.jpg)
+![ ](https://github.com/VengrinaMV/exploratory-analysis_version_game/blob/main/bd.jpg)
 
 2.	Исследуем цену из таблицы products (запрос 5)
 Буду, считать что в значениях цены выбросов нет, тк максимальное значение совпадает с 95 и 100 квантилем
@@ -23,4 +23,10 @@
 В результате проведенного исследования  можно сказать о том, что версия 1.2 доходнее версии 1.1 . 
 Об этом говорит увеличение ARPU c 1534 до 4789, также увеличилось значение PU  с 8,8% до 11%.
 Заметный рост по категориям товаров произошел в группе artifacts.
+
+___
+[SQL-запросы, используемые в проекте]([https://drive.google.com/file/d/126983egXJJc-KtNv3eATEIWt-ueKiVdE/view?usp=drive_link](https://drive.google.com/file/d/1_mQjbFzjHYk_Gy-EsTobYeqVNIBPAQjl/view?usp=sharing)
+
+______
+
 
