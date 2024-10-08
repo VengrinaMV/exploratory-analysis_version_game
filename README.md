@@ -25,7 +25,7 @@
 Заметный рост по категориям товаров произошел в группе artifacts.
 
 ___
-[SQL-запросы, используемые в проекте]([https://drive.google.com/file/d/126983egXJJc-KtNv3eATEIWt-ueKiVdE/view?usp=drive_link](https://drive.google.com/file/d/1_mQjbFzjHYk_Gy-EsTobYeqVNIBPAQjl/view?usp=sharing)
+[SQL-запросы, используемые в проекте](https://drive.google.com/file/d/1_mQjbFzjHYk_Gy-EsTobYeqVNIBPAQjl/view?usp=sharing)
 
 ______
 
